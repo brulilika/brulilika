@@ -2,8 +2,7 @@
 <h3 align="center">Computer Science Bachelor | Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruna-lika-0426911a4/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-
+  <a href="https://www.linkedin.com/in/bruna-lika-0426911a4/" target="blank"></a>  
 </p>
 
 
